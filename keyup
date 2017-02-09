@@ -1,0 +1,6 @@
+    (keyup.enter)    按键并回车
+    (keyup.space)    按键并空格
+    (keyup.control)  按键并ctrl
+    (keyup.shift)    按键并shift
+    (keyup.alt)      按键并alt
+    ......
